@@ -6,9 +6,14 @@
 
 ## 🎬 视频demo
 
-<video src="demo_1.mp4" width="640" height="480" controls></video>
+<video src="https://github.com/Robocup2025/Shichengqi_Robocup/blob/main/demo_1.mp4" width="800" controls></video>
 
-<video src="demo_2.mp4" width="640" height="480" controls></video>
+<!-- 响应式版本 -->
+<div align="center">
+  <video src="assets/demo.mp4" width="80%" controls>
+    <p>您的浏览器不支持HTML5视频，请<a href="assets/demo.mp4">下载视频</a>观看。</p>
+  </video>
+</div>
 
 ## 📂 项目结构 (Project Structure)
 
